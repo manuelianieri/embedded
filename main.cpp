@@ -9,7 +9,7 @@ int main()
             std::srand(static_cast<unsigned int>(std::time(nullptr)));
 
     SlotMachine slotMachine;
-    slotMachine.play();
+    //slotMachine.play();
 
     return 0;
 }
